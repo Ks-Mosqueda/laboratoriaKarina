@@ -1,0 +1,28 @@
+header {
+  border: 1px solid black;
+  height: 70px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+li {
+  display: inline;
+  list-style: none;
+  top: 15px;
+  padding: 10px 30px;
+}
+
+li:hover {
+  background-color: pink;
+  color: white;
+}
+
+/* ESTO ES PARA DARLE DISTINTOS ESTILOS A CADA SECCION DEL ENCABEZADO
+#first_item {
+  font-family: "Roboto", sans-serif;
+}
+
+#second_item {
+  font-family:
+}
+LOS ID DEBERIAN AGREGARSE AL HTML
+*/

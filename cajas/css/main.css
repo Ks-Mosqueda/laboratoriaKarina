@@ -1,0 +1,55 @@
+/*ID*/
+#red_square {
+  background-color: red;
+}
+
+#purple_square {
+  background-color: purple;
+}
+
+#yellow_square {
+  background-color: yellow;
+}
+
+#blue_square {
+  background-color: blue;
+}
+
+#green_square {
+  background-color: green;
+}
+
+#black_square {
+  background-color: black;
+}
+/*clases tamaño*/
+.big-square{
+  border: solid 1px black;
+  height: 280px;
+  position: relative;
+  width: 280px;
+}
+
+.medium-square{
+  border: solid 1px blue;
+  height: 140px;
+  position: absolute;
+  width: 140px;
+  left: 70px;
+  top: 70px;
+}
+
+.small-square{
+  border: solid 1px red;
+  height: 70px;
+  position: absolute;
+  width: 70px;
+}
+/*margenes BEN*/
+.mt-5 {
+  margin-top: 2%;
+}
+
+.ml-20 {
+  margin-left: 20%;
+}

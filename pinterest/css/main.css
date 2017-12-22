@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+input[type="text"] {
+  width: 60%;
+  background-color: #e3e3e3;
+  border: none;
+  height: 40px;
+}
+nav {
+  position: fixed;
+  background-color: white;
+  width: 100%;
+}
+
+main {
+  padding-top: 400px;
+}
+.float-rigth {
+  float: right;
+}
+
+select {
+  background-color: gray;
+  border: none;
+  height: 50px;
+}
+.clear{
+  clear: both;
+}
+
+.contenedor-iconos > img {
+  margin: 35px;
+  margin-right: 10px;
+  margin-bottom: 1px;
+}
+
+.contenedor-items > p {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.columna{
+  display: inline-block;
+  width: 310px;
+  vertical-align: top;
+}
+
+.text-center {
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+/*
+ * Estilos de tu proyecto
+ */
+
+  nav > section > img {
+    width: 100%;
+  }
+
+  nav  {
+    background: red;
+  }

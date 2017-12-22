@@ -1,0 +1,111 @@
+/*div {
+  width: 600px;
+  height: 600px;
+}
+
+.float-left {
+  float: right;
+  float: top;
+}
+
+.float-right {
+  float: left;
+}
+
+.clear {
+  clear:both;
+}
+
+#blue {
+  background: #8cb27c;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#green {
+  outline: 10px solid blue;
+  background: #000;
+}
+
+#red{
+  background: red;
+}
+*/
+
+body{
+  background-color: ligthgrey
+}
+h1 {
+  text-align: center;
+  color: purple;
+}
+
+section {
+  background: #8cb27c;
+  height: 250px;
+  left: 30%;
+  position: relative;
+  width:500px;
+}
+
+#circle {
+  border-radius: 50%;
+  height: 80px;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  width: 80px;
+}
+
+#first_balon {
+  float: right;
+  margin-top: 3%;
+}
+
+#second_balon {
+  left: 51%;
+  position: absolute;
+  top: 20%;
+}
+
+#third_balon {
+  left: 86.7%;
+  position: absolute;
+  top: 68%;
+}
+
+#left_goal {
+  border-left: none;
+}
+#rigth_goal {
+  left: 88.7%;
+  border-right: none;
+}
+
+#principal {
+  height: 200px;
+  left: 25px;
+  position: absolute;
+  top: 25px;
+  width: 450px;
+}
+
+.balon {
+  background-color: white;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.goal {
+  height: 100px;
+  position: absolute;
+  top: 25%;
+  width: 50px;
+}
+
+.white-border {
+  border: 2px solid white;
+}
