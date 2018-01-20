@@ -1,0 +1,32 @@
+.fondo-rosa {
+background: linear-gradient(to bottom right, #530060, #B1077B) ;
+height:50vh;
+}
+
+.logo-white {
+  width: 25%;
+  margin-left: 18vh;
+  margin-top: 45vh;
+}
+
+.logo-pink {
+  width: 25%;
+  margin-left: 18vh;
+  margin-top: 45vh;
+}
+
+.coche {
+  height:80vh;
+}
+
+.centrar {
+  margin-left: 18vh;
+}
+
+.center {
+  text-align: center;
+}
+
+.color-icon {
+  color: #B1077B;
+}
